@@ -9,4 +9,8 @@ Adding changes.
 
 Conflict resolved.
 
+<<<<<<< HEAD
 Adding change to master branch.
+=======
+ChaNGES in the Branch.
+>>>>>>> develop
