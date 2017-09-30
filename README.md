@@ -13,3 +13,5 @@ Conflict resolved.
 Adding change to master branch.
 
 ChaNGES in the Branch.
+
+Creating conflict for Bash.
