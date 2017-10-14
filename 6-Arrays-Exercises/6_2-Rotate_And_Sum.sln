@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-Arrays-Exercises", "6-Arrays-Exercises\6-Arrays-Exercises.csproj", "{0F744913-47B3-47A3-918B-96CD26F2D309}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_3-FoldandSum", "6_3-FoldandSum\6_3-FoldandSum.csproj", "{1EA6C4E1-6D4F-4A45-B876-FFFC1A2E00D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F744913-47B3-47A3-918B-96CD26F2D309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F744913-47B3-47A3-918B-96CD26F2D309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F744913-47B3-47A3-918B-96CD26F2D309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F744913-47B3-47A3-918B-96CD26F2D309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA6C4E1-6D4F-4A45-B876-FFFC1A2E00D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA6C4E1-6D4F-4A45-B876-FFFC1A2E00D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA6C4E1-6D4F-4A45-B876-FFFC1A2E00D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA6C4E1-6D4F-4A45-B876-FFFC1A2E00D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BD1FCCA-7191-4FBE-ACFF-E5941C258081}
+	EndGlobalSection
+EndGlobal
